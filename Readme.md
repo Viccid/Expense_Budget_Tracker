@@ -82,7 +82,7 @@ Vscode (visual enviroment) was choosen for easy implementation of the code.
 Git was easily installed for smooth remote repository to github.
 ## Usage:
 
-This demonstrates creating an expenses, adding them to the ExpenseDatabase, updating an expense, removing an expense, and retrieving expenses from the database.This can be adapted and integrated, more functionality can be added based on specific requirements.
+This demonstrates creating an expenses, adding them to the ExpenseDatabase, updating an expense and retrieving expenses from the database.This can be adapted and integrated, more functionality, like removing an expense, can be added based on specific requirements.
 
 ## Cloning Of Project:
 
